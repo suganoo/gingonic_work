@@ -1,0 +1,1 @@
+curl -X POST "localhost:8080/post?id=1234&page=1" -d "name=manu&message=this_is_great"
